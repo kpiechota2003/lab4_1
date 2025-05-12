@@ -15,4 +15,4 @@ Opis interfejsu:
 - Licznik dni ciepłych
 
 Opis działania:
-Dane generowane są losowo przy starcie. Filtrowanie i reset automatycznie aktualizują tabelę. Użycie tablicy (a nie listy) w `filteredForecasts` zapewnia poprawne odświeżanie danych w Blazorze.
+Dane generowane są losowo przy starcie. Filtrowanie i reset automatycznie aktualizują tabelę. Użycie tablicy w `filteredForecasts` zapewnia poprawne odświeżanie danych w Blazorze.
